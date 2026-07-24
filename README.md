@@ -1,4 +1,4 @@
-[$\textup{Cnblogs link.}$](https://www.cnblogs.com/Fall-wendywan/p/19683545)
+[Cnblogs link.](https://www.cnblogs.com/Fall-wendywan/p/19683545)
 
 这个人平时很不自觉，喜欢水谷但不喜欢上什么其它网站。
 
