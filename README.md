@@ -17,7 +17,7 @@
 
 ---
 
-## $\textup{V3.0}$
+## $\textup{V2.0}$
 
 $\textup{Upd on 2026.3.7.}$
 
